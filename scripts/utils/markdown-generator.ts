@@ -85,7 +85,6 @@ ${t('subtitle', locale)}
   // TOC
   md += `## 📖 ${t('toc', locale)}
 
-- [🌐 ${t('viewInGallery', locale)}](#-${slugify(t('viewInGallery', locale))})
 - [🤔 ${t('whatIs', locale)}](#-${slugify(t('whatIs', locale))})
 - [📊 ${t('stats', locale)}](#-${slugify(t('stats', locale))})
 - [⭐ ${t('featuredPrompts', locale)}](#-${slugify(t('featuredPrompts', locale))})
@@ -94,33 +93,6 @@ ${t('subtitle', locale)}
 - [📄 ${t('license', locale)}](#-${slugify(t('license', locale))})
 - [🙏 ${t('acknowledgements', locale)}](#-${slugify(t('acknowledgements', locale))})
 - [⭐ ${t('starHistory', locale)}](#-${slugify(t('starHistory', locale))})
-
----
-
-`;
-
-  // Gallery CTA
-  const imageLang = locale === 'zh' || locale === 'zh-TW' ? 'zh' : 'en';
-  const coverImage = `public/gallery-${imageLang}.png`;
-
-  md += `## 🌐 ${t('viewInGallery', locale)}
-
-<div align="center">
-
-![Gallery](${coverImage})
-
-</div>
-
-**[${t('browseGallery', locale)}](${galleryUrl})**
-
-${t('galleryFeatures', locale)}
-
-| Feature | ${t('githubReadme', locale)} | ${t('leaddeGallery', locale)} |
-|---------|--------------|---------------------|
-| 🎬 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
-| 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
-| 🤖 ${t('languages', locale)} | - | ${t('aiRecommendation', locale)} |
-| 📱 ${t('mobile', locale)} | ${t('basic', locale)} | ${t('fullyResponsive', locale)} |
 
 ---
 
@@ -197,17 +169,7 @@ ${t('whatIsIntro', locale)}
 
 ### 🎯 ${hiddenCount} ${t('morePromptsDesc', locale)}
 
-To keep this README readable, only the first ${MAX_PROMPTS_TO_DISPLAY} prompts are shown here. The Leadde gallery keeps the full set searchable and easier to browse.
-
-**[${t('viewAll', locale)}](${galleryUrl})**
-
-${t('galleryFeature1', locale)}
-
-${t('galleryFeature2', locale)}
-
-${t('galleryFeature3', locale)}
-
-${t('galleryFeature4', locale)}
+To keep this README readable, only the first ${MAX_PROMPTS_TO_DISPLAY} prompts are shown here.
 
 </div>
 
@@ -259,7 +221,6 @@ ${t('licensedUnder', locale)}
 
 <div align="center">
 
-**[🌐 ${t('viewInGallery', locale)}](${galleryUrl})** •
 **[📝 ${t('submitPrompt', locale)}](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ ${t('starRepo', locale)}](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts)**
 
@@ -327,7 +288,6 @@ function generateFeaturedPromptBlock(
   if (p.sourceLink) md += `- **${t('source', locale)}:** [Twitter Post](${p.sourceLink})\n`;
   md += `- **${t('published', locale)}:** ${publishedDate}\n\n`;
 
-  md += `**[👉 ${t('tryItNow', locale)}](${tryLink})**\n\n`;
   md += `---\n\n`;
 
   return md;

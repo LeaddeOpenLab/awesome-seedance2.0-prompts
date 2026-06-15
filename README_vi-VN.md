@@ -17,7 +17,6 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Seedance 2.0 của By
 
 ## 📖 Mục lục
 
-- [🌐 Xem trong Thư viện Web](#-xem-trong-th-vin-web)
 - [🤔 Seedance 2.0 là gì?](#-seedance-20-l-g)
 - [📊 Thống kê](#-thng-k)
 - [⭐ Prompt nổi bật](#-prompt-ni-bt)
@@ -26,27 +25,6 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Seedance 2.0 của By
 - [📄 Giấy phép](#-giy-php)
 - [🙏 Lời cảm ơn](#-li-cm-n)
 - [⭐ Lịch sử sao](#-lch-s-sao)
-
----
-
-## 🌐 Xem trong Thư viện Web
-
-<div align="center">
-
-![Gallery](public/gallery-en.png)
-
-</div>
-
-**[👉 Duyệt tất cả prompt Seedance 2.0 trên Leadde](https://leadde.com/vi-VN/seedance-2-0-prompts)**
-
-Tại sao nên sử dụng thư viện của chúng tôi?
-
-| Feature | GitHub README | Thư viện leadde.com |
-|---------|--------------|---------------------|
-| 🎬 Phát video | ❌ Chỉ hình thu nhỏ tĩnh | ✅ Phát video đầy đủ với streaming |
-| 🔍 Tìm kiếm | Chỉ Ctrl+F | Tìm kiếm khớp mờ đa trường |
-| 🤖 Gợi ý AI | - | Gợi ý prompt bằng AI |
-| 📱 Di động | Cơ bản | Hoàn toàn phản hồi |
 
 ---
 
@@ -117,8 +95,6 @@ Danh tính nhân vật được duy trì xuyên suốt, những cái nghiêng đ
 - **Nguồn:** [Twitter Post](https://x.com/JiahaoYang_art/status/2033119940216344616)
 - **Đã xuất bản:** March 15, 2026
 
-**[👉 Thử ngay →](https://leadde.com/vi-VN/seedance-2-0-prompts?id=1402)**
-
 ---
 
 ### No. 2: Video Prompt về Thời trang cao cấp Hollywood trong mơ
@@ -153,8 +129,6 @@ Một lời nhắc tạo video đa cảnh chi tiết cho Seedance 2.0, được 
 - **Tác giả:** [John](https://x.com/johnAGI168)
 - **Nguồn:** [Twitter Post](https://x.com/johnAGI168/status/2025849650654122348)
 - **Đã xuất bản:** February 23, 2026
-
-**[👉 Thử ngay →](https://leadde.com/vi-VN/seedance-2-0-prompts?id=594)**
 
 ---
 
@@ -214,8 +188,6 @@ Không khí: Hơi nước từ từ bốc lên ngược sáng, khung cảnh tĩn
 - **Nguồn:** [Twitter Post](https://x.com/johnAGI168/status/2021818021354848258)
 - **Đã xuất bản:** February 12, 2026
 
-**[👉 Thử ngay →](https://leadde.com/vi-VN/seedance-2-0-prompts?id=288)**
-
 ---
 
 ### No. 4: Lời nhắc chiến đấu Live-Action Demon Slayer cho Seedance 2.0
@@ -267,8 +239,6 @@ Cảnh tượng hiệu ứng đặc biệt: Rồng nước xanh và sét vàng n
 - **Nguồn:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
 - **Đã xuất bản:** February 11, 2026
 
-**[👉 Thử ngay →](https://leadde.com/vi-VN/seedance-2-0-prompts?id=189)**
-
 ---
 
 ### No. 5: Seedance 2.0: MV của rapper 80 tuổi
@@ -303,8 +273,6 @@ Màn hình ngang 16:9, phong cách MV rap đường phố, tông màu tím neon 
 - **Tác giả:** [松果先森](https://x.com/songguoxiansen)
 - **Nguồn:** [Twitter Post](https://x.com/songguoxiansen/status/2033175478765289598)
 - **Đã xuất bản:** March 15, 2026
-
-**[👉 Thử ngay →](https://leadde.com/vi-VN/seedance-2-0-prompts?id=1403)**
 
 ---
 
@@ -350,8 +318,6 @@ Siêu thực tế, năng lượng lấy cảm hứng từ Fast and Furious, ánh
 - **Tác giả:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
 - **Nguồn:** [Twitter Post](https://x.com/CharaspowerAI/status/2039651574297792688)
 - **Đã xuất bản:** April 2, 2026
-
-**[👉 Thử ngay →](https://leadde.com/vi-VN/seedance-2-0-prompts?id=2530)**
 
 ---
 
@@ -3319,17 +3285,7 @@ Sử dụng 9 hình ảnh tham chiếu được cung cấp làm các keyframe vi
 
 ### 🎯 100 prompt khác không hiển thị ở đây
 
-To keep this README readable, only the first 100 prompts are shown here. The Leadde gallery keeps the full set searchable and easier to browse.
-
-**[👉 Xem tất cả prompt trong thư viện web của chúng tôi](https://leadde.com/vi-VN/seedance-2-0-prompts)**
-
-✨ Bố cục lưới Masonry đẹp mắt
-
-🔍 Tìm kiếm toàn văn và bộ lọc
-
-🌍 Hỗ trợ 16 ngôn ngữ
-
-📱 Trải nghiệm tối ưu cho di động
+To keep this README readable, only the first 100 prompts are shown here.
 
 </div>
 
@@ -3368,7 +3324,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 
 <div align="center">
 
-**[🌐 Xem trong Thư viện Web](https://leadde.com/vi-VN/seedance-2-0-prompts)** •
 **[📝 Gửi một prompt](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts)**
 

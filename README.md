@@ -17,7 +17,6 @@ A practical gallery of tested Seedance 2.0 video prompts for creators, marketers
 
 ## 📖 Table of Contents
 
-- [🌐 View in Web Gallery](#-view-in-web-gallery)
 - [🤔 What is Seedance 2.0?](#-what-is-seedance-20)
 - [📊 Statistics](#-statistics)
 - [⭐ Featured Prompts](#-featured-prompts)
@@ -26,27 +25,6 @@ A practical gallery of tested Seedance 2.0 video prompts for creators, marketers
 - [📄 License](#-license)
 - [🙏 Acknowledgements](#-acknowledgements)
 - [⭐ Star History](#-star-history)
-
----
-
-## 🌐 View in Web Gallery
-
-<div align="center">
-
-![Gallery](public/gallery-en.png)
-
-</div>
-
-**[👉 Explore the full Seedance 2.0 prompt gallery on Leadde](https://leadde.com/en-US/seedance-2-0-prompts)**
-
-Use the Leadde gallery when you want to preview results, search quickly, and jump from prompt to video without scrolling through a long README.
-
-| Feature | GitHub README | Leadde Gallery |
-|---------|--------------|---------------------|
-| 🎬 Video Preview | ❌ Static thumbnails in a long list | ✅ Streamable videos in a visual gallery |
-| 🔍 Search | Ctrl+F only | Search across titles, tags, authors, and prompt text |
-| 🤖 Recommendations | - | AI-assisted prompt discovery |
-| 📱 Mobile | Basic | Fully responsive |
 
 ---
 
@@ -117,8 +95,6 @@ Character identity is maintained throughout, real subtle head tilts, eye movemen
 - **Source:** [Twitter Post](https://x.com/JiahaoYang_art/status/2033119940216344616)
 - **Published:** March 15, 2026
 
-**[👉 Try it now →](https://leadde.com/en-US/seedance-2-0-prompts?id=1402)**
-
 ---
 
 ### No. 2: Hollywood Haute Couture Fantasy Video Prompt
@@ -153,8 +129,6 @@ A detailed, multi-scene video generation prompt for Seedance 2.0, designed to cr
 - **Author:** [John](https://x.com/johnAGI168)
 - **Source:** [Twitter Post](https://x.com/johnAGI168/status/2025849650654122348)
 - **Published:** February 23, 2026
-
-**[👉 Try it now →](https://leadde.com/en-US/seedance-2-0-prompts?id=594)**
 
 ---
 
@@ -214,8 +188,6 @@ Atmosphere: Steam slowly rises against the backlight, the scene is so quiet you 
 - **Source:** [Twitter Post](https://x.com/johnAGI168/status/2021818021354848258)
 - **Published:** February 12, 2026
 
-**[👉 Try it now →](https://leadde.com/en-US/seedance-2-0-prompts?id=288)**
-
 ---
 
 ### No. 4: Live-Action Anime Adaptation: Water vs. Thunder Breathing Duel
@@ -271,8 +243,6 @@ Special Effects Spectacle: The blue water dragon and the golden lightning instan
 - **Source:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
 - **Published:** February 11, 2026
 
-**[👉 Try it now →](https://leadde.com/en-US/seedance-2-0-prompts?id=189)**
-
 ---
 
 ### No. 5: Seedance 2.0: 80-Year-Old Rapper MV
@@ -307,8 +277,6 @@ A detailed, 15-second prompt for Seedance 2.0 to generate a 16:9 horizontal stre
 - **Author:** [松果先森](https://x.com/songguoxiansen)
 - **Source:** [Twitter Post](https://x.com/songguoxiansen/status/2033175478765289598)
 - **Published:** March 15, 2026
-
-**[👉 Try it now →](https://leadde.com/en-US/seedance-2-0-prompts?id=1403)**
 
 ---
 
@@ -354,8 +322,6 @@ Ultra realistic, fast and furious inspired energy, photorealistic lighting, inte
 - **Author:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
 - **Source:** [Twitter Post](https://x.com/CharaspowerAI/status/2039651574297792688)
 - **Published:** April 2, 2026
-
-**[👉 Try it now →](https://leadde.com/en-US/seedance-2-0-prompts?id=2530)**
 
 ---
 
@@ -3343,17 +3309,7 @@ Use the supplied 9 reference images as time-ordered 16:9 real video keyframes, n
 
 ### 🎯 100 more prompts not shown here
 
-To keep the README readable, only the first 100 prompts are shown here. The Leadde gallery keeps the full set searchable and easier to browse.
-
-**[👉 View all prompts in our Web Gallery](https://leadde.com/en-US/seedance-2-0-prompts)**
-
-✨ Visual gallery built for scanning results
-
-🔍 Search and filters across prompt metadata
-
-🌍 Multilingual prompt browsing
-
-📱 Mobile-friendly review experience
+To keep this README readable, only the first 100 prompts are shown here.
 
 </div>
 
@@ -3392,7 +3348,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 <div align="center">
 
-**[🌐 View in Web Gallery](https://leadde.com/en-US/seedance-2-0-prompts)** •
 **[📝 Submit a Prompt](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Star this repo](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts)**
 

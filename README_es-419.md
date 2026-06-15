@@ -17,7 +17,6 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 ## 📖 Tabla de contenidos
 
-- [🌐 Ver en la galería web](#-ver-en-la-galera-web)
 - [🤔 ¿Qué es Seedance 2.0?](#-qu-es-seedance-20)
 - [📊 Estadísticas](#-estadsticas)
 - [⭐ Prompts destacados](#-prompts-destacados)
@@ -26,27 +25,6 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 - [📄 Licencia](#-licencia)
 - [🙏 Agradecimientos](#-agradecimientos)
 - [⭐ Historial de estrellas](#-historial-de-estrellas)
-
----
-
-## 🌐 Ver en la galería web
-
-<div align="center">
-
-![Gallery](public/gallery-en.png)
-
-</div>
-
-**[👉 Explorar todos los prompts de Seedance 2.0 en Leadde](https://leadde.com/es-419/seedance-2-0-prompts)**
-
-¿Por qué usar nuestra galería?
-
-| Feature | GitHub README | Galería leadde.com |
-|---------|--------------|---------------------|
-| 🎬 Reproducción de video | ❌ Solo miniaturas estáticas | ✅ Reproducción completa con streaming |
-| 🔍 Buscar | Solo Ctrl+F | Búsqueda de coincidencia difusa multicampo |
-| 🤖 Recomendación IA | - | Recomendaciones de prompts con IA |
-| 📱 Móvil | Básico | Totalmente responsive |
 
 ---
 
@@ -117,8 +95,6 @@ La identidad del personaje se mantiene en todo momento, sutiles inclinaciones de
 - **Fuente:** [Twitter Post](https://x.com/JiahaoYang_art/status/2033119940216344616)
 - **Publicado:** March 15, 2026
 
-**[👉 Pruébalo ahora →](https://leadde.com/es-419/seedance-2-0-prompts?id=1402)**
-
 ---
 
 ### No. 2: Video Prompt de fantasía de alta costura de Hollywood
@@ -153,8 +129,6 @@ Un *prompt* detallado de generación de video multiescena para Seedance 2.0, dis
 - **Autor:** [John](https://x.com/johnAGI168)
 - **Fuente:** [Twitter Post](https://x.com/johnAGI168/status/2025849650654122348)
 - **Publicado:** February 23, 2026
-
-**[👉 Pruébalo ahora →](https://leadde.com/es-419/seedance-2-0-prompts?id=594)**
 
 ---
 
@@ -214,8 +188,6 @@ Atmósfera: El vapor se eleva lentamente contra el contraluz, la escena es tan t
 - **Fuente:** [Twitter Post](https://x.com/johnAGI168/status/2021818021354848258)
 - **Publicado:** February 12, 2026
 
-**[👉 Pruébalo ahora →](https://leadde.com/es-419/seedance-2-0-prompts?id=288)**
-
 ---
 
 ### No. 4: Batalla de acción real de Demon Slayer: indicación para Seedance 2.0
@@ -267,8 +239,6 @@ Espectáculo de efectos especiales: El dragón de agua azul y el rayo dorado exp
 - **Fuente:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
 - **Publicado:** February 11, 2026
 
-**[👉 Pruébalo ahora →](https://leadde.com/es-419/seedance-2-0-prompts?id=189)**
-
 ---
 
 ### No. 5: Seedance 2.0: Video musical de rapero de 80 años
@@ -303,8 +273,6 @@ Pantalla horizontal 16:9, estilo MV de rap callejero, tonos fríos de neón mora
 - **Autor:** [松果先森](https://x.com/songguoxiansen)
 - **Fuente:** [Twitter Post](https://x.com/songguoxiansen/status/2033175478765289598)
 - **Publicado:** March 15, 2026
-
-**[👉 Pruébalo ahora →](https://leadde.com/es-419/seedance-2-0-prompts?id=1403)**
 
 ---
 
@@ -350,8 +318,6 @@ Ultra realista, energía inspirada en Fast and Furious, iluminación fotorrealis
 - **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
 - **Fuente:** [Twitter Post](https://x.com/CharaspowerAI/status/2039651574297792688)
 - **Publicado:** April 2, 2026
-
-**[👉 Pruébalo ahora →](https://leadde.com/es-419/seedance-2-0-prompts?id=2530)**
 
 ---
 
@@ -3316,17 +3282,7 @@ Utiliza las 9 imágenes de referencia proporcionadas como fotogramas clave de vi
 
 ### 🎯 100 más prompts no mostrados aquí
 
-To keep this README readable, only the first 100 prompts are shown here. The Leadde gallery keeps the full set searchable and easier to browse.
-
-**[👉 Ver todos los prompts en nuestra galería web](https://leadde.com/es-419/seedance-2-0-prompts)**
-
-✨ Diseño de cuadrícula Masonry hermoso
-
-🔍 Búsqueda de texto completo y filtros
-
-🌍 Soporte para 16 idiomas
-
-📱 Experiencia optimizada para móviles
+To keep this README readable, only the first 100 prompts are shown here.
 
 </div>
 
@@ -3365,7 +3321,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 
 <div align="center">
 
-**[🌐 Ver en la galería web](https://leadde.com/es-419/seedance-2-0-prompts)** •
 **[📝 Enviar un prompt](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts)**
 

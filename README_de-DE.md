@@ -17,7 +17,6 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für ByteDance S
 
 ## 📖 Inhaltsverzeichnis
 
-- [🌐 In Web-Galerie ansehen](#-in-web-galerie-ansehen)
 - [🤔 Was ist Seedance 2.0?](#-was-ist-seedance-20)
 - [📊 Statistiken](#-statistiken)
 - [⭐ Ausgewählte Prompts](#-ausgewhlte-prompts)
@@ -26,27 +25,6 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für ByteDance S
 - [📄 Lizenz](#-lizenz)
 - [🙏 Danksagung](#-danksagung)
 - [⭐ Star-Verlauf](#-star-verlauf)
-
----
-
-## 🌐 In Web-Galerie ansehen
-
-<div align="center">
-
-![Gallery](public/gallery-en.png)
-
-</div>
-
-**[👉 Alle Seedance 2.0 Prompts auf Leadde durchsuchen](https://leadde.com/de-DE/seedance-2-0-prompts)**
-
-Warum unsere Galerie nutzen?
-
-| Feature | GitHub README | leadde.com Galerie |
-|---------|--------------|---------------------|
-| 🎬 Videowiedergabe | ❌ Nur statische Thumbnails | ✅ Vollständige Videowiedergabe mit Streaming |
-| 🔍 Suche | Nur Ctrl+F | Mehrfeld-Fuzzy-Matching-Suche |
-| 🤖 KI-Empfehlung | - | KI-gestützte Prompt-Empfehlungen |
-| 📱 Mobil | Basis | Vollständig responsiv |
 
 ---
 
@@ -117,8 +95,6 @@ Die Identität der Charaktere bleibt durchgehend erhalten, echte subtile Kopfbew
 - **Quelle:** [Twitter Post](https://x.com/JiahaoYang_art/status/2033119940216344616)
 - **Veröffentlicht:** March 15, 2026
 
-**[👉 Jetzt ausprobieren →](https://leadde.com/de-DE/seedance-2-0-prompts?id=1402)**
-
 ---
 
 ### No. 2: Hollywood Haute Couture Fantasy Video Prompt
@@ -153,8 +129,6 @@ Ein detaillierter, multi-szenischer Videogenerierungs-Prompt für Seedance 2.0, 
 - **Autor:** [John](https://x.com/johnAGI168)
 - **Quelle:** [Twitter Post](https://x.com/johnAGI168/status/2025849650654122348)
 - **Veröffentlicht:** February 23, 2026
-
-**[👉 Jetzt ausprobieren →](https://leadde.com/de-DE/seedance-2-0-prompts?id=594)**
 
 ---
 
@@ -214,8 +188,6 @@ Atmosphäre: Dampf steigt langsam gegen das Gegenlicht auf, die Szene ist so sti
 - **Quelle:** [Twitter Post](https://x.com/johnAGI168/status/2021818021354848258)
 - **Veröffentlicht:** February 12, 2026
 
-**[👉 Jetzt ausprobieren →](https://leadde.com/de-DE/seedance-2-0-prompts?id=288)**
-
 ---
 
 ### No. 4: Demon Slayer Live-Action Battle Prompt für Seedance 2.0
@@ -267,8 +239,6 @@ Spezialeffekt-Spektakel: Der blaue Wasserdrache und der goldene Blitz explodiere
 - **Quelle:** [Twitter Post](https://x.com/johnAGI168/status/2021610292979876208)
 - **Veröffentlicht:** February 11, 2026
 
-**[👉 Jetzt ausprobieren →](https://leadde.com/de-DE/seedance-2-0-prompts?id=189)**
-
 ---
 
 ### No. 5: Seedance 2.0: 80-jähriger Rapper MV
@@ -303,8 +273,6 @@ Ein detaillierter, 15-sekündiger Prompt für Seedance 2.0 zur Erstellung eines 
 - **Autor:** [松果先森](https://x.com/songguoxiansen)
 - **Quelle:** [Twitter Post](https://x.com/songguoxiansen/status/2033175478765289598)
 - **Veröffentlicht:** March 15, 2026
-
-**[👉 Jetzt ausprobieren →](https://leadde.com/de-DE/seedance-2-0-prompts?id=1403)**
 
 ---
 
@@ -350,8 +318,6 @@ Ultra-realistisch, inspiriert von der Energie von Fast and Furious, fotorealisti
 - **Autor:** [Pierrick Chevallier | IA](https://x.com/CharaspowerAI)
 - **Quelle:** [Twitter Post](https://x.com/CharaspowerAI/status/2039651574297792688)
 - **Veröffentlicht:** April 2, 2026
-
-**[👉 Jetzt ausprobieren →](https://leadde.com/de-DE/seedance-2-0-prompts?id=2530)**
 
 ---
 
@@ -3318,17 +3284,7 @@ Verwenden Sie die 9 bereitgestellten Referenzbilder als zeitlich geordnete 16:9-
 
 ### 🎯 100 weitere Prompts hier nicht angezeigt
 
-To keep this README readable, only the first 100 prompts are shown here. The Leadde gallery keeps the full set searchable and easier to browse.
-
-**[👉 Alle Prompts in unserer Web-Galerie ansehen](https://leadde.com/de-DE/seedance-2-0-prompts)**
-
-✨ Schönes Masonry-Grid-Layout
-
-🔍 Volltextsuche und Filter
-
-🌍 Unterstützung für 16 Sprachen
-
-📱 Mobile-optimierte Erfahrung
+To keep this README readable, only the first 100 prompts are shown here.
 
 </div>
 
@@ -3367,7 +3323,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 
 <div align="center">
 
-**[🌐 In Web-Galerie ansehen](https://leadde.com/de-DE/seedance-2-0-prompts)** •
 **[📝 Prompt einreichen](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/Leadde-OpenLab/awesome-seedance-2-prompts)**
 
