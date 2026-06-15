@@ -26,6 +26,22 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: 'pt-BR', name: 'Português (Brasil)', readmeFileName: 'README_pt-BR.md' },
   { code: 'pt-PT', name: 'Português', readmeFileName: 'README_pt-PT.md' },
   { code: 'tr-TR', name: 'Türkçe', readmeFileName: 'README_tr-TR.md' },
+  { code: 'ar-SA', name: 'العربية', readmeFileName: 'README_ar-SA.md' },
+  { code: 'id-ID', name: 'Bahasa Indonesia', readmeFileName: 'README_id-ID.md' },
+  { code: 'ms-MY', name: 'Bahasa Melayu', readmeFileName: 'README_ms-MY.md' },
+  { code: 'ru-RU', name: 'Русский', readmeFileName: 'README_ru-RU.md' },
+  { code: 'uk-UA', name: 'Українська', readmeFileName: 'README_uk-UA.md' },
+  { code: 'pl-PL', name: 'Polski', readmeFileName: 'README_pl-PL.md' },
+  { code: 'nl-NL', name: 'Nederlands', readmeFileName: 'README_nl-NL.md' },
+  { code: 'sv-SE', name: 'Svenska', readmeFileName: 'README_sv-SE.md' },
+  { code: 'da-DK', name: 'Dansk', readmeFileName: 'README_da-DK.md' },
+  { code: 'no-NO', name: 'Norsk', readmeFileName: 'README_no-NO.md' },
+  { code: 'fi-FI', name: 'Suomi', readmeFileName: 'README_fi-FI.md' },
+  { code: 'el-GR', name: 'Ελληνικά', readmeFileName: 'README_el-GR.md' },
+  { code: 'he-IL', name: 'עברית', readmeFileName: 'README_he-IL.md' },
+  { code: 'ro-RO', name: 'Română', readmeFileName: 'README_ro-RO.md' },
+  { code: 'cs-CZ', name: 'Čeština', readmeFileName: 'README_cs-CZ.md' },
+  { code: 'bn-BD', name: 'বাংলা', readmeFileName: 'README_bn-BD.md' },
 ];
 
 const LANG_BADGES: Record<string, string> = {
