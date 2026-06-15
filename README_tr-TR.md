@@ -30,25 +30,28 @@ ByteDance Seedance 2.0 için yüksek kaliteli video oluşturma istemleri koleksi
 
 ## 🤔 Seedance 2.0 nedir?
 
-**Seedance 2.0**, **ByteDance** tarafından geliştirilen bir video oluşturma modelidir. Endüstrinin **eş zamanlı dört-modlu giriş** destekleyen ilk modeli — görüntü, video, ses ve metin.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Metinden Videoya** — Metin açıklamalarından video oluşturma
-- 🖼️ **Görüntüden Videoya** — Statik görüntüleri dinamik videolara dönüştürme
-- 📹 **Videodan Videoya** — Mevcut videoları dönüştürme ve genişletme
-- 🎵 **Ses Güdümlü** — Ses girişiyle yönlendirilen video oluşturma
-- 📐 **1080p çözünürlüğe kadar**, 4-15 saniye süre
-- 🔊 **Otomatik seslendirme ve puanlama** — Otomatik anlatım ve arka plan müziği
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 İstatistikler
 
-| Metrik | Sayı |
+| Metric | Count |
 |--------|-------|
-| 📝 Toplam İstem | **3894** |
-| ⭐ Öne Çıkan İstemler | **6** |
-| 🔄 Son Güncelleme | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

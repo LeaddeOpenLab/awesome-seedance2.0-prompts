@@ -30,25 +30,28 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Seedance 2.0 của By
 
 ## 🤔 Seedance 2.0 là gì?
 
-**Seedance 2.0** là mô hình tạo video do **ByteDance** phát triển. Đây là mô hình đầu tiên trong ngành hỗ trợ **nhập liệu bốn phương thức đồng thời** — hình ảnh, video, âm thanh và văn bản.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Văn bản thành Video** — Tạo video từ mô tả văn bản
-- 🖼️ **Hình ảnh thành Video** — Biến hình ảnh tĩnh thành video động
-- 📹 **Video thành Video** — Chuyển đổi và mở rộng video hiện có
-- 🎵 **Điều khiển bằng Âm thanh** — Tạo video dựa trên đầu vào âm thanh
-- 📐 **Độ phân giải lên đến 1080p**, thời lượng 4-15 giây
-- 🔊 **Lồng tiếng & chấm điểm tự động** — Tự động lồng tiếng và nhạc nền
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 Thống kê
 
-| Chỉ số | Số lượng |
+| Metric | Count |
 |--------|-------|
-| 📝 Tổng số prompt | **3894** |
-| ⭐ Prompt nổi bật | **6** |
-| 🔄 Cập nhật lần cuối | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

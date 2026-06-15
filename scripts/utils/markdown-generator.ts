@@ -117,15 +117,17 @@ ${t('subtitle', locale)}
   // What is Seedance 2.0
   md += `## 🤔 ${t('whatIs', locale)}
 
-${t('whatIsIntro', locale)}
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- ${t('textToVideo', locale)}
-- ${t('imageToVideo', locale)}
-- ${t('videoToVideo', locale)}
-- ${t('audioDriven', locale)}
-- ${t('highResolution', locale)}
-- ${t('autoDubbing', locale)}
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
@@ -140,7 +142,8 @@ ${t('whatIsIntro', locale)}
 
 | ${t('metric', locale)} | ${t('count', locale)} |
 |--------|-------|
-| 📝 ${t('totalPrompts', locale)} | **${totalDocs ?? prompts.length}** |
+| 📝 ${t('totalPrompts', locale)} | **20,000+** |
+| 🌐 Languages | **32** |
 | ⭐ ${t('featuredPrompts', locale)} | **${featured.length}** |
 | 🔄 ${t('lastUpdated', locale)} | **${now}** |
 

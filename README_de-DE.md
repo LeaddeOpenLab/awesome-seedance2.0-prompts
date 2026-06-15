@@ -30,25 +30,28 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für ByteDance S
 
 ## 🤔 Was ist Seedance 2.0?
 
-**Seedance 2.0** ist ein Videogenerierungsmodell, das von **ByteDance** entwickelt wurde. Es ist das erste Modell der Branche, das **simultane Quad-Modal-Eingabe** unterstützt — Bild, Video, Audio und Text.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Text-zu-Video** — Videos aus Textbeschreibungen generieren
-- 🖼️ **Bild-zu-Video** — Statische Bilder in dynamische Videos animieren
-- 📹 **Video-zu-Video** — Bestehende Videos transformieren und erweitern
-- 🎵 **Audiogesteuert** — Videos durch Audio-Eingabe generieren
-- 📐 **Bis zu 1080p Auflösung**, 4-15 Sekunden Dauer
-- 🔊 **Auto-Synchronisation & Scoring** — Automatische Vertonung und Hintergrundmusik
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 Statistiken
 
-| Metrik | Anzahl |
+| Metric | Count |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **3894** |
-| ⭐ Ausgewählte Prompts | **6** |
-| 🔄 Zuletzt aktualisiert | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

@@ -30,25 +30,28 @@ Une collection de prompts de génération vidéo de haute qualité pour Seedance
 
 ## 🤔 Qu'est-ce que Seedance 2.0 ?
 
-**Seedance 2.0** est un modèle de génération vidéo développé par **ByteDance**. C'est le premier modèle de l'industrie à prendre en charge **l'entrée quadri-modale simultanée** — image, vidéo, audio et texte.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Texte vers Vidéo** — Générer des vidéos à partir de descriptions textuelles
-- 🖼️ **Image vers Vidéo** — Animer des images statiques en vidéos dynamiques
-- 📹 **Vidéo vers Vidéo** — Transformer et étendre des vidéos existantes
-- 🎵 **Piloté par Audio** — Générer des vidéos pilotées par une entrée audio
-- 📐 **Résolution jusqu'à 1080p**, durée de 4-15 secondes
-- 🔊 **Doublage et scoring automatiques** — Voix off et musique de fond automatiques
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 Statistiques
 
-| Métrique | Nombre |
+| Metric | Count |
 |--------|-------|
-| 📝 Total des prompts | **3894** |
-| ⭐ Prompts en vedette | **6** |
-| 🔄 Dernière mise à jour | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

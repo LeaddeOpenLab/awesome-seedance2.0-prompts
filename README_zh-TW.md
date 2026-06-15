@@ -30,25 +30,28 @@
 
 ## 🤔 什麼是 Seedance 2.0？
 
-**Seedance 2.0** 是**字節跳動**推出的視頻生成模型，支持文本、圖片、視頻和音頻輸入，適合電影化短片、產品展示、社群內容和多模態視頻實驗。
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **文本生成視頻** — 根據文字描述生成視頻
-- 🖼️ **圖片生成視頻** — 將靜態圖片動畫化為動態視頻
-- 📹 **視頻轉視頻** — 轉換和擴展現有視頻
-- 🎵 **音頻驅動** — 通過音頻輸入驅動視頻生成
-- 📐 **最高 1080p 分辨率**，4-15 秒時長
-- 🔊 **自動配音配樂** — 自動旁白和背景音樂
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 統計數據
 
-| 指標 | 數量 |
+| Metric | Count |
 |--------|-------|
-| 📝 提示詞總數 | **3894** |
-| ⭐ 精選提示詞 | **6** |
-| 🔄 最後更新 | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

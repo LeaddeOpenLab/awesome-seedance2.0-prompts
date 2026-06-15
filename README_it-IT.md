@@ -30,25 +30,28 @@ Una raccolta curata di prompt di generazione video di alta qualità per Seedance
 
 ## 🤔 Cos'è Seedance 2.0?
 
-**Seedance 2.0** è un modello di generazione video sviluppato da **ByteDance**. È il primo modello del settore a supportare **l'input quadri-modale simultaneo** — immagine, video, audio e testo.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Testo a Video** — Genera video da descrizioni testuali
-- 🖼️ **Immagine a Video** — Anima immagini statiche in video dinamici
-- 📹 **Video a Video** — Trasforma e estendi video esistenti
-- 🎵 **Guidato dall'Audio** — Genera video guidati da input audio
-- 📐 **Fino a risoluzione 1080p**, durata 4-15 secondi
-- 🔊 **Doppiaggio e scoring automatici** — Voce narrante e musica di sottofondo automatiche
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 Statistiche
 
-| Metrica | Conteggio |
+| Metric | Count |
 |--------|-------|
-| 📝 Totale prompt | **3894** |
-| ⭐ Prompt in evidenza | **6** |
-| 🔄 Ultimo aggiornamento | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

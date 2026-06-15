@@ -30,25 +30,28 @@
 
 ## 🤔 Seedance 2.0 คืออะไร?
 
-**Seedance 2.0** เป็นโมเดลสร้างวิดีโอที่พัฒนาโดย **ByteDance** เป็นโมเดลแรกในอุตสาหกรรมที่รองรับ **การป้อนข้อมูลสี่โมดัลพร้อมกัน** — ภาพ วิดีโอ เสียง และข้อความ
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **ข้อความเป็นวิดีโอ** — สร้างวิดีโอจากคำอธิบายข้อความ
-- 🖼️ **ภาพเป็นวิดีโอ** — ทำให้ภาพนิ่งเป็นวิดีโอไดนามิก
-- 📹 **วิดีโอเป็นวิดีโอ** — แปลงและขยายวิดีโอที่มีอยู่
-- 🎵 **ขับเคลื่อนด้วยเสียง** — สร้างวิดีโอจากอินพุตเสียง
-- 📐 **ความละเอียดสูงสุด 1080p** ความยาว 4-15 วินาที
-- 🔊 **พากย์เสียงและให้คะแนนอัตโนมัติ** — เสียงบรรยายและเพลงประกอบอัตโนมัติ
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 สถิติ
 
-| เมตริก | จำนวน |
+| Metric | Count |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **3894** |
-| ⭐ พรอมต์แนะนำ | **6** |
-| 🔄 อัปเดตล่าสุด | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

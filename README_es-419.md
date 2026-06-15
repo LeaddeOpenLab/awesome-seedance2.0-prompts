@@ -30,25 +30,28 @@ Una colección curada de prompts de generación de video de alta calidad para Se
 
 ## 🤔 ¿Qué es Seedance 2.0?
 
-**Seedance 2.0** es un modelo de generación de video desarrollado por **ByteDance**. Es el primer modelo de la industria que soporta **entrada cuádruple modal simultánea** — imagen, video, audio y texto.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Texto a Video** — Genera videos a partir de descripciones de texto
-- 🖼️ **Imagen a Video** — Anima imágenes estáticas en videos dinámicos
-- 📹 **Video a Video** — Transforma y extiende videos existentes
-- 🎵 **Impulsado por Audio** — Genera videos impulsados por entrada de audio
-- 📐 **Hasta resolución 1080p**, duración de 4-15 segundos
-- 🔊 **Doblaje y puntuación automáticos** — Voz en off y música de fondo automáticas
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 Estadísticas
 
-| Métrica | Cantidad |
+| Metric | Count |
 |--------|-------|
-| 📝 Total de prompts | **3894** |
-| ⭐ Prompts destacados | **6** |
-| 🔄 Última actualización | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

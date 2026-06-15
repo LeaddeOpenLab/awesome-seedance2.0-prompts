@@ -30,15 +30,17 @@ A practical gallery of tested Seedance 2.0 video prompts for creators, marketers
 
 ## 🤔 What is Seedance 2.0?
 
-**Seedance 2.0** is a video generation model from **ByteDance**. It supports text, image, video, and audio inputs, making it useful for cinematic concepts, product shots, social clips, and multimodal video experiments.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Text-to-Video** — Generate videos from text descriptions
-- 🖼️ **Image-to-Video** — Animate static images into dynamic videos
-- 📹 **Video-to-Video** — Transform and extend existing videos
-- 🎵 **Audio-Driven** — Generate videos driven by audio input
-- 📐 **Up to 1080p resolution**, 4–15 seconds duration
-- 🔊 **Auto dubbing & scoring** — Automatic voiceover and background music
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
@@ -46,9 +48,10 @@ A practical gallery of tested Seedance 2.0 video prompts for creators, marketers
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **3894** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
 | ⭐ Featured Prompts | **6** |
-| 🔄 Last Updated | **2026-06-13** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 

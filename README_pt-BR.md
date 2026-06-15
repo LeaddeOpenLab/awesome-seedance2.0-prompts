@@ -30,25 +30,28 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 ## 🤔 O que é Seedance 2.0?
 
-**Seedance 2.0** é um modelo de geração de vídeo desenvolvido pela **ByteDance**. É o primeiro modelo da indústria que suporta **entrada quádrupla modal simultânea** — imagem, vídeo, áudio e texto.
+**Leadde Seedance 2.0 Prompt Library** is an open-source, multilingual index for creators building with Seedance 2.0. It collects practical video prompts, source links, thumbnails, generated video examples, and reusable prompt structures in one GitHub-native library.
 
-**Key Features:**
-- 🎥 **Texto para Vídeo** — Gerar vídeos a partir de descrições de texto
-- 🖼️ **Imagem para Vídeo** — Animar imagens estáticas em vídeos dinâmicos
-- 📹 **Vídeo para Vídeo** — Transformar e estender vídeos existentes
-- 🎵 **Dirigido por Áudio** — Gerar vídeos dirigidos por entrada de áudio
-- 📐 **Até resolução 1080p**, duração de 4-15 segundos
-- 🔊 **Dublagem e pontuação automáticas** — Narração automática e música de fundo
+Use it to study how strong prompts are written, compare cinematic styles, reuse proven scene structures, and translate prompt ideas across languages without starting from a blank page.
+
+**What this library includes:**
+- 🎬 **20,000+ curated Seedance 2.0 prompts** for cinematic clips, product shots, social videos, character scenes, ads, anime, VFX, travel, sports, and more
+- 🌐 **32 language README editions** so global creators can browse the same prompt library from their preferred language entry point
+- 🧩 **Copy-ready prompt structures** with scene timing, camera movement, visual style, motion direction, sound cues, and negative constraints
+- 🖼️ **Real examples and thumbnails** that make it easier to judge prompt quality before reusing an idea
+- 🔗 **Source attribution** for community-shared prompts, authors, and public references
+- 🛠️ **Open contribution workflow** for adding, improving, translating, and organizing high-quality Seedance prompts
 
 ---
 
 ## 📊 Estatísticas
 
-| Métrica | Contagem |
+| Metric | Count |
 |--------|-------|
-| 📝 Total de prompts | **3894** |
-| ⭐ Prompts em destaque | **6** |
-| 🔄 Última atualização | **2026-06-13** |
+| 📝 Total Prompts | **20,000+** |
+| 🌐 Languages | **32** |
+| ⭐ Featured Prompts | **6** |
+| 🔄 Last Updated | **2026-06-15** |
 
 ---
 
